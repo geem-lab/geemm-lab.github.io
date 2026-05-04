@@ -18,5 +18,5 @@ RedLatFQT, it started to publish articles in Spanish and English.
 
 [Vol 5 2020](https://drive.google.com/file/d/1fa8O8fcyYu3IPIldYOln-SV_sFGyG9rh/view?usp=sharing)
 
-[Vol 6 2020](https://drive.google.com/file/d/1jOxbqmtv8OtfC87fI83iu_wiVZIsgbmP/view?usp=sharing)
+[Vol 6 2021](https://drive.google.com/file/d/1jOxbqmtv8OtfC87fI83iu_wiVZIsgbmP/view?usp=sharing)
 
