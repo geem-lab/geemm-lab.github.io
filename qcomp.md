@@ -8,3 +8,5 @@ to elucidate chemical problems. The target audience is undergraduate, and gradua
 Qcomp in its initial volumes presented only articles written in Portuguese, but after its entry in the Red Latinoamericana de Físicoquímica Teórica, 
 RedLatFQT, it started to publish articles in Spanish and English.
 
+[![Vol 1 2020]([link-da-imagem.png](https://drive.google.com/file/d/1Ll-5LgQy3CvPhM2I5St-nJOS6CImnwTF/view?usp=sharing))]([link-do-pdf.pdf](https://drive.google.com/file/d/1m2KhVeg8F8-BKRLiAaQIVVb1eAbqTlGJ/view?usp=sharing))
+
