@@ -1,7 +1,8 @@
 ## [geem-lab.github.io](https://geem-lab.github.io/)
 
 ## Scientific Publications
-Aqui está a lista de referências convertida para o formato Markdown:
+
+### 2003 - 2008
 
 - GALEMBECK, S. E.; **CARAMORI, G. F.** Qual o sítio de reação? Um experimento computacional. *Quim. Nova* **2003**, *26*, 957–959. [DOI:10.1590/S0100-40422003000600031](https://doi.org/10.1590/S0100-40422003000600031)
 
@@ -22,6 +23,9 @@ Aqui está a lista de referências convertida para o formato Markdown:
 - PARREIRA, R. L. T.; **CARAMORI, G. F.**; GALEMBECK, S. E.; HUGUENIN, F. The Nature of the Interactions between Pt4 Cluster and the Adsorbates ^.H, ^.OH, and H2O. *J. Phys. Chem. A* **2008**, *112*, 11731–11743. [DOI:10.1021/jp8033177](https://doi.org/10.1021/jp8033177)
 
 - **CARAMORI, G. F.**; FRENKING, G. Analysis of the Metal–Ligand Bonds in [Mo(X)(NH2)3] (X = P, N, PO, and NO), [Mo(CO)5(NO)]^+, and [Mo(CO)5(PO)]^+. *Theor. Chem. Acc.* **2008**, *120*, 351–361. [DOI:10.1007/s00214-008-0435-6](https://doi.org/10.1007/s00214-008-0435-6)
+
+------
+### 2009 - 2013
 
 - **CARAMORI, G. F.**; OLIVEIRA, K. T. Aromaticidade: evolução histórica do conceito e critérios quantitativos. *Quim. Nova* **2009**, *32*, 1871–1884. [DOI:10.1590/S0100-40422009000700034](https://doi.org/10.1590/S0100-40422009000700034) (Cover)
 
@@ -56,6 +60,9 @@ Aqui está a lista de referências convertida para o formato Markdown:
 - GALLARDO, H.; SANTOS, D. M. P. O.; **CARAMORI, G. F.**; MOLIN, F.; BECHTOLD, I. H. Synthetic pathway for a new series of liquid crystal 2,6-disubstituted imidazo[2,1-b][1,3,4]thiadiazole. *Liq. Cryst.* **2013**, *40*, 570–580. [DOI:10.1080/02678292.2013.777977](https://doi.org/10.1080/02678292.2013.777977)
 
 - ROCHA, E. L.; **CARAMORI, G. F.**; RAMBO, C. R. Nanoparticle translocation through a lipid bilayer tuned by surface chemistry. *Phys. Chem. Chem. Phys.* **2013**, *15*, 2282–2290. [DOI:10.1039/c2cp44035k](https://doi.org/10.1039/c2cp44035k) (Cover)
+
+-------
+### 2014 - 2018
 
 - MONDELLI, M. A.; GRAMINHA, A. E.; CORRÊA, R. S.; DA SILVA, M. M.; CARNIZELLO, A. P.; VON POELHSITZ, G.; ELLENA, J.; DEFLON, V. M.; **CARAMORI, G. F.**; TORRE, M. H.; TAVARES, D. C.; BATISTA, A. A. Ruthenium(II)/4,6-dimethyl-2-mercaptopyrimidine complexes: synthesis, characterization, X-ray structures and in vitro cytotoxicity activities on cancer cell lines. *Polyhedron* **2014**, *68*, 312–318. [DOI:10.1016/j.poly.2013.11.001](https://doi.org/10.1016/j.poly.2013.11.001)
 
