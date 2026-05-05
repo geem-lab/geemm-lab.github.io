@@ -1,4 +1,4 @@
-## [geem-lab.github.io](https://geem-lab.github.io/)
+## [geem-lab.github.io](https://github.com/geem-lab/geemm-lab.github.io)
 
 ## Qcomp
 
