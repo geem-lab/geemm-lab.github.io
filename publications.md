@@ -152,6 +152,9 @@
 
 - COSTA, R. M. da; BASTOS, J. K.; COSTA, M. C. A.; FERREIRA, M. M. C.; MIZUNO, C. S.; **CARAMORI, G. F.**; NAGURNIAK, G. R.; SIMÃO, M. R.; SANTOS, R. A. dos; VENEZIANI, R. C. S.; AMBRÓSIO, S. R.; PARREIRA, R. L. T. In vitro cytotoxicity and structure–activity relationship approaches of ent-kaurenoic acid derivatives against human breast carcinoma cell line. *Phytochemistry* **2018**, *156*, 214–223. [DOI:10.1016/j.phytochem.2018.10.005](https://doi.org/10.1016/j.phytochem.2018.10.005)
 
+------
+### 2019 - 2023
+
 - ORENHA, R. P.; CARAMORI, G. F.; MISTURINI, A.; GALEMBECK, S. E. Shedding light on the electronic structure of [Ru(η6-C16H16)(NH3)3]2+ complex: a computational insight. *J. Mol. Model.* **2019**, *25*, 1–10. [DOI:10.1007/s00894-018-3882-6](https://doi.org/10.1007/s00894-018-3882-6)
 
 - AMORIM, A. L.; PETERLE, M. M.; GUERREIRO, A.; COIMBRA, D. F.; HEYING, R. S.; **CARAMORI, G. F.**; BRAGA, A. L.; BORTOLUZZI, A. J.; NEVES, A.; BERNARDES, G. J. L.; PERALTA, R. A. Synthesis, characterization and biological evaluation of new manganese metal carbonyl compounds containing sulfur and selenium ligands as a promising new class of CORMs. *Dalton Trans.* **2019**, *48*, 5574–5584. [DOI:10.1039/c9dt00616h](https://doi.org/10.1039/c9dt00616h)
@@ -259,6 +262,9 @@
 - SOUZA, F. P. S.; HEINZELMANN, G.; **CARAMORI, G. F.** Investigating the solvent effects on binding affinity of PAHs–ExBox4+ complexes: an alchemical approach. *J. Phys. Chem. B* **2023**, *127* (1), 249--260. [DOI:10.1021/acs.jpcb.2c06271](https://doi.org/10.1021/acs.jpcb.2c06271)
 
 - ORENHA, R. P.; RAMOS, S. B.; NATAL, M. L. L.; GOMES, M. H. A.; MUÑOZ-CASTRO, A.; MADUREIRA, L. M. P.; **CARAMORI, G. F.**; PIOTROWSKI, M. J.; PARREIRA, R. L. T. Rational design of promising candidates for photoactive layer in polymer solar cells: insights from computation. *J. Phys. Org. Chem.* **2023**, *36*, e4586. [DOI:10.1002/poc.4586](https://doi.org/10.1002/poc.4586)
+
+------
+### 2024 - 2026
 
 - SILVA LIMA, A. R.; RODRIGUES, G. C.; REZENDE RODRIGUES, A. C.; VANONI, C. R.; MICKE, G. A.; **CARAMORI, G. F.**; AFFELDT, R. F.; NAGURNIAK, G. R.; JOST, C. L. First report on the electrooxidation of vinpocetine using a modification free sensing platform: application to pharmaceutical formulations. *Anal. Methods* **2024**, *16* (24), 4002--4009. [DOI:10.1039/d4ay00598h](https://doi.org/10.1039/d4ay00598h)
 
