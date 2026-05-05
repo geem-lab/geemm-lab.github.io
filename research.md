@@ -1,3 +1,3 @@
-## [geem-lab.github.io](https://github.com/geem-lab/geemm-lab.github.io)
+## [geem-lab.github.io](geemm-lab.github.io)
 
 ## Research lines
