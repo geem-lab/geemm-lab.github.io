@@ -1,4 +1,4 @@
-## [geem-lab.github.io](https://geem-lab.github.io/)
+## [geemm-lab.github.io](https://geemm-lab.github.io/)
 
 ## Members
 
