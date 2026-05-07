@@ -5,6 +5,7 @@
 ### Faculty
 
 **Dr. Giovanni F. Caramori** 
+<img src="profile.png" alt="profile" width="200"/>
 
 ![Giovanni F. Caramori](/pictures/profile.png)
 
