@@ -35,6 +35,7 @@ Theoretical chemistry unites principles and concepts common to all branches of c
  <a href="https://bsky.app/profile/giovcaramori.bsky.social"> <img src="pictures/bsky.png" width="20" height="20" /> </a>
  
  luis.lacerda@ufsc.br
+ 
  <a href="https://scholar.google.com/citations?user=krOl5hEAAAAJ&hl=pt-BR"> <img src="pictures/scholar.png" width="20" height="20"/> </a> 
  <a href="https://orcid.org/0000-0001-5926-7074"> <img src="pictures/orcid.png" width="20" height="20" /> </a> 
  <a href="https://www.webofscience.com/wos/author/rid/J-5067-2016"> <img src="pictures/publons.png" width="22" height="22" /> </a> 
