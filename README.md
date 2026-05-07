@@ -20,8 +20,8 @@ Welcome to the [GEEMM website](https://geem-lab.github.io/geemm-lab.github.io/).
 
 
 ***
- **Contact** |
- :-------- | 
+ **Contact**
+
  Departamento de Química, CFM   
  Campus Universitário Trindade, C.P. 476, 88040-900  
  Trindade, Florianópolis – SC – Brazil  
