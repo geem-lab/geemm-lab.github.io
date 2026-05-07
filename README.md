@@ -27,7 +27,7 @@ Welcome to the [GEEMM website](https://geem-lab.github.io/geemm-lab.github.io/).
  Trindade, Florianópolis – SC – Brazil  
  Phone: +55-48-3721-3644/3607
  
- giovanni.caramori@ufsc.br  <a href="https://scholar.google.com.br/citations?user=25icdw4AAAAJ&hl=en&oi=ao"> <img src="pictures/scholar.png" width="14" height="14" /> </a>
+ giovanni.caramori@ufsc.br  <a href="https://scholar.google.com.br/citations?user=25icdw4AAAAJ&hl=en&oi=ao"> <img src="pictures/scholar.png" width="20" height="20" />  </a>
  
  luis.lacerda@ufsc.br
  
