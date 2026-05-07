@@ -31,7 +31,6 @@ Theoretical chemistry unites principles and concepts common to all branches of c
  giovanni.caramori@ufsc.br  <a href="https://scholar.google.com.br/citations?user=25icdw4AAAAJ&hl=en&oi=ao"> <img src="pictures/scholar.png" width="20" height="20"/> </a> <a href="https://orcid.org/0000-0002-6455-7831"> <img src="pictures/orcid.png" width="20" height="20" /> </a> 
  <a href="https://publons.com/researcher/1510686/giovanni-f-caramori/"> <img src="profile/publons.png" width="20" height="20" /> </a>
  
- 
  luis.lacerda@ufsc.br
  
 ***
